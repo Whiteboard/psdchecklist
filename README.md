@@ -3,9 +3,6 @@ PSD Checklist
 
 Every PSD needs to be prepped for development. This is a starting point.
 
-
-# Checklist for Outputting PSD's
-
 ## If this design supposed to be responsive: (preferred)
 
 	[] Different width breakpoints are defined, and different layers or PSDs associated with those breakpoints are included
